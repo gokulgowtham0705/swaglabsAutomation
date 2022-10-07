@@ -67,6 +67,8 @@ public class BaseClass
 		System.setProperty("webdriver.chrome.driver", "D:\\Gokul\\Driver\\Newversion\\chromedriver.exe");
 	
 		driver = new ChromeDriver(); 
+		System.out.println("To check the commit happens");
+		System.out.println("to intiate the commit");
 		
 //		switch(SearchEngine) {
 //		case "Chrome":

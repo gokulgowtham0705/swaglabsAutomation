@@ -1,0 +1,7 @@
+com\swaglabs\TestCases\TC_001.class
+com\swaglabs\utilities\FileHandling.class
+com\swaglabsPage\Objects\Productpage.class
+com\swaglabsPage\Objects\LoginPage.class
+com\swaglabs\utilities\Readconfig.class
+swaglabs\com\swaglabs\App.class
+com\swaglabs\TestCases\BaseClass.class
